@@ -1,2 +1,3 @@
-# touchegg.conf
-My personal Touchegg config.
+# Installation
+
+Clone repository to `~/.config/touchegg`
